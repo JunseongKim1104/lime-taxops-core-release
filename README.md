@@ -1,14 +1,14 @@
-# 라임세무회계 통합업무관리시스템
+# Lime Tax Accounting - Integrated Management System
 
-## 최신 버전: v1.0
+## Latest version: v1.0
 
-### 다운로드
-➡️ [Releases 페이지에서 다운로드](https://github.com/JunseongKim1104/lime-taxops-core-release/releases/latest)
+### Download
+- [Releases page](https://github.com/JunseongKim1104/lime-taxops-core-release/releases/latest)
 
-### 설치 방법
-1. 위 링크 → Assets에서 setup.exe 다운로드
-2. 실행 후 설치 진행
-3. 바탕화면 단축아이콘으로 실행
+### Installation
+1. Download lime-taxops-v1.0-setup.exe from Assets
+2. Run the installer
+3. Launch from desktop shortcut
 
 ---
-빌드 날짜: 2026-03-13 05:57 KST
+Build date: 2026-03-13 06:55 KST
