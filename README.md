@@ -1,14 +1,14 @@
 # Lime Tax Accounting - Integrated Management System
 
-## Latest version: v3.4.10
+## Latest version: v3.4.11
 
 ### Download
 - [Releases page](https://github.com/JunseongKim1104/lime-taxops-core-release/releases/latest)
 
 ### Installation
-1. Download lime-taxops-v3.4.10-setup.exe from Assets
+1. Download lime-taxops-v3.4.11-setup.exe from Assets
 2. Run the installer
 3. Launch from desktop shortcut
 
 ---
-Build date: 2026-07-22 13:44 KST
+Build date: 2026-07-24 05:43 KST
